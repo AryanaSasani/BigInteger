@@ -1,0 +1,7 @@
+C:\Users\Aryana\source\repos\OperateBigNumbers\bin\Debug\OperateBigNumbers.exe.config
+C:\Users\Aryana\source\repos\OperateBigNumbers\bin\Debug\OperateBigNumbers.exe
+C:\Users\Aryana\source\repos\OperateBigNumbers\bin\Debug\OperateBigNumbers.pdb
+C:\Users\Aryana\source\repos\OperateBigNumbers\obj\Debug\OperateBigNumbers.csprojAssemblyReference.cache
+C:\Users\Aryana\source\repos\OperateBigNumbers\obj\Debug\OperateBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Aryana\source\repos\OperateBigNumbers\obj\Debug\OperateBigNumbers.exe
+C:\Users\Aryana\source\repos\OperateBigNumbers\obj\Debug\OperateBigNumbers.pdb
